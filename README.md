@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suprajakoyyada
-- 👀 I’m interested in DATA ANALYTICS
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on SQL ITH DANNY
+- 👀 I’m interested in
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
